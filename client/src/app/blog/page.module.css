@@ -1,0 +1,35 @@
+.maincontainer {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+   
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image {
+    object-fit: cover;
+    width: 400px;
+    height: 400px;
+}
+
+.imageContainer {
+    position: relative;
+
+}
+
+.content {}
+
+.title {
+    margin-bottom: 10px;
+}
+
+.desc {
+    font-size: 18px;
+    color: #999;
+}

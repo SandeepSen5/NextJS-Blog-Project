@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.imgContainer {
+    width: 15px;
+    height: 15px;
+    position: relative;
+}
